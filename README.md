@@ -26,6 +26,3 @@
 - Member 2  
 - Member 3  
 - Member 4
-
-## 📎 Notes
-This repository contains the design screenshots, project purpose, and a link to the live Figma file. Feel free to browse the screens or use this project as part of your design portfolio!
