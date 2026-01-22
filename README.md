@@ -26,3 +26,6 @@
 - Member 2  
 - Member 3  
 - Member 4
+
+## 📌 Notes
+This is a **UI/UX design project** created for learning and certification purposes during **BCA 1st Semester**.
